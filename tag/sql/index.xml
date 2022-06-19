@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL | Seoyoung-Alice</title>
+    <link>/tag/sql/</link>
+      <atom:link href="/tag/sql/index.xml" rel="self" type="application/rss+xml" />
+    <description>SQL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>SQL</title>
+      <link>/tag/sql/</link>
+    </image>
+    
+    <item>
+      <title>Development of Alpong Score Board</title>
+      <link>/project/alpong/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/project/alpong/</guid>
+      <description>&lt;h2 id=&#34;link&#34;&gt;Link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://alpong.reliablecreator.com/&#34;&gt;https://alpong.reliablecreator.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A web program for managing the score of each member according to the record and match result of a reactive-type in-house table tennis club using Vue JS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Period : Jan. 22 ~ Feb. 22 (2 months)&lt;/li&gt;
+&lt;li&gt;Role : Project planning and development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-content&#34;&gt;Project Content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Program function arrangement and planning&lt;/li&gt;
+&lt;li&gt;Member information, score, group information, sports development fund details, etc. DB Table planning and construction&lt;/li&gt;
+&lt;li&gt;Calculation processing and reflection of individual scores and fines when reflecting match results according to club regulations&lt;/li&gt;
+&lt;li&gt;Development of automatic score and sports development fund calculation and group information change function in accordance with club regulations according to game type&lt;/li&gt;
+&lt;li&gt;Development of functions such as adding and modifying members, adding and changing game records, and adding and modifying development fund payment&lt;/li&gt;
+&lt;li&gt;Development of separate access function between Admin and User using Token&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;development-environment&#34;&gt;Development Environment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java Script(Vue JS)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;C#(.NetFrameWork 6.0)&lt;/li&gt;
+&lt;li&gt;GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;version 1.0 Release&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

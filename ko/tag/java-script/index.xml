@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java Script | Seoyoung-Alice</title>
+    <link>/ko/tag/java-script/</link>
+      <atom:link href="/ko/tag/java-script/index.xml" rel="self" type="application/rss+xml" />
+    <description>Java Script</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Java Script</title>
+      <link>/ko/tag/java-script/</link>
+    </image>
+    
+    <item>
+      <title>Alpong Score Board 개발</title>
+      <link>/ko/project/alpong/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/ko/project/alpong/</guid>
+      <description>&lt;h2 id=&#34;link&#34;&gt;Link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://alpong.reliablecreator.com/&#34;&gt;https://alpong.reliablecreator.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vue JS를 이용한 Reactive형 사내 탁구 동호회 경기 기록 및 경기 결과에 따른 회원별 점수 관리를 위한 웹프로그램&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 22. 01 ~ 22. 02 (2개월)&lt;/li&gt;
+&lt;li&gt;역할 : 프로젝트 기획 및 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;프로그램 기능 정리 및 기획&lt;/li&gt;
+&lt;li&gt;회원정보, 점수, 그룹 정보, 체육 발전 기금 내역 등 DB Table 기획 및 구축&lt;/li&gt;
+&lt;li&gt;동호회 규정에 따른 경기 결과 반영시 개별 점수 및 벌금에 대한 계산 처리 및 반영&lt;/li&gt;
+&lt;li&gt;경기 종류(단두대, 점심 경기, 일반 경기, 이벤트 경기 등)에 따라 동호회 규정에 맞추어 자동 점수 및 체육 발전기금 자동 계산, 그룹 정보 변경 기능 개발&lt;/li&gt;
+&lt;li&gt;회원 추가 및 수정, 경기기록 추가 및 변경, 발전기금 납부 추가 및 수정 등 기능 개발&lt;/li&gt;
+&lt;li&gt;Token을 이용한 Admin, User 간 분리 접속 기능 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java Script(Vue JS)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;C#(.NetFrameWork 6.0)&lt;/li&gt;
+&lt;li&gt;GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;version 1.0 Release 배포&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

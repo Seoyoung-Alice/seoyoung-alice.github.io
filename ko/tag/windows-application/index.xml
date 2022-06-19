@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows Application | Seoyoung-Alice</title>
+    <link>/ko/tag/windows-application/</link>
+      <atom:link href="/ko/tag/windows-application/index.xml" rel="self" type="application/rss+xml" />
+    <description>Windows Application</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Windows Application</title>
+      <link>/ko/tag/windows-application/</link>
+    </image>
+    
+    <item>
+      <title>PollExLogicDesigner 프로그램 개발</title>
+      <link>/ko/project/altair_logicdesigner/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/ko/project/altair_logicdesigner/</guid>
+      <description>&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Logic Design을 위한 사내 신규 제품 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 21. 03 ~ 현재 (약 1년 2개월)&lt;/li&gt;
+&lt;li&gt;역할 : 프로그램 템플릿 설계, ECAD 자료구조 변환, Picking 기능, Undo/Redo 기능 작업&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Schematic Design을 위한 신규 제품인 PollExLogicDesigner 프로그램 개발&lt;/li&gt;
+&lt;li&gt;PollExLogicDesigner 프로그램 템플릿 설계&lt;/li&gt;
+&lt;li&gt;SDBB &amp;lt;-&amp;gt; UDF 라는 사내 ECAD 자료구조간 변환하여 파일 출력하는 기능 개발&lt;/li&gt;
+&lt;li&gt;Mouse Event 처리인 Picking을 통한 수정 기능 개발&lt;/li&gt;
+&lt;li&gt;Undo/Redo 구조 및 기능 개발&lt;/li&gt;
+&lt;li&gt;Part의 속성을 Generic Symbol로 변환하는 기능 개발&lt;/li&gt;
+&lt;li&gt;그 외 프로그램 테스트 및 버그 수정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;MFC&lt;/li&gt;
+&lt;li&gt;DirectX&lt;/li&gt;
+&lt;li&gt;GitLab&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Proptotype Revision, version 1.0 release&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-logicdesigner-drag&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/altair_logicdesigner/LogicDesigner_Drag_hue3415c38280ce150eca66a166b95c2b5_310902_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;LogicDesigner Drag&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/altair_logicdesigner/LogicDesigner_Drag_hue3415c38280ce150eca66a166b95c2b5_310902_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3775&#34; height=&#34;1079&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    LogicDesigner Drag
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Export to ODB&#43;&#43;</title>
+      <link>/ko/project/altair_odb/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/ko/project/altair_odb/</guid>
+      <description>&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ECAD 구조 분석을 통한 자사 UDF, PDBB파일을 ODB++ 파일로 변환하는 기능 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 20. 11 ~ 21.03 (5개월)&lt;/li&gt;
+&lt;li&gt;역할 : ODB++ 변환 개발 및 알고리즘 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C++을 이용한 Polygon Expand, Shrink 알고리즘 개발&lt;/li&gt;
+&lt;li&gt;UDF, PDBB, ODB++ 자료구조 분석&lt;/li&gt;
+&lt;li&gt;ODB++ 자료구조 관리를 위한 C++ 클래스 구조 작업 follow-up&lt;/li&gt;
+&lt;li&gt;UDF, PDBB 자료구조를 ODB++ 자료구조에 맞추어 변환하여 출력하는 기능 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;MFC&lt;/li&gt;
+&lt;li&gt;Visual Source Safe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;곡선을 보존하는 Polygon Expand, Shrink 알고리즘 개발&lt;/li&gt;
+&lt;li&gt;기존 알고리즘 대비 90% 시간 단축&lt;/li&gt;
+&lt;li&gt;전세계 ODB++사용자 5만 이상의 잠정적 고객 확보&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-export-odb-process&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/altair_odb/ExportODB_Process_hufca58f76a980aa4481643b61603a38b4_1411501_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Export ODB Process&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/altair_odb/ExportODB_Process_hufca58f76a980aa4481643b61603a38b4_1411501_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4253&#34; height=&#34;2119&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Export ODB Process
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-compare-with-export-odb-result&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/altair_odb/ExportODB_Result_hu093a74129b4552f725d81cec598e7e44_2846533_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Compare with Export ODB Result&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/altair_odb/ExportODB_Result_hu093a74129b4552f725d81cec598e7e44_2846533_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3458&#34; height=&#34;1762&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Compare with Export ODB Result
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
